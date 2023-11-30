@@ -87,5 +87,6 @@ button:focus-visible {
 }
 
 .coffee {
+  cursor: pointer;
   font-size: 200px;
 }
